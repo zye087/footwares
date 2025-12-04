@@ -7,7 +7,7 @@
     @vite(["resources/css/app.css", "resources/js/app.js"])
     <title>{{ $title ?? "Footware" }}</title>
 </head>
-<body class="h-dvh box-border">
+<body class="h-dvh box-border bg-gray-100">
     {{ $slot }}
 </body>
 </html>
