@@ -1,13 +1,13 @@
-<nav class="bg-neutral-800 w-3/4 rounded-xl flex text-white justify-between items-center p-5">
+<nav class=" w-[85%] rounded-xl flex text-white justify-between items-center px-5">
+    <div class="flex gap-5 text-gray-200">
+        <a href="" class="hover:text-amber-700 text-amber-800 transition duration-150 cursor-pointer font-bold">Shop</a>
+        <a href="" class="hover:text-amber-700 text-amber-800 transition duration-150 cursor-pointer font-bold">Collections</a>
+    </div>
     <div>
-        <h1 class="text-gray-200 font-bold tracking-widest text-lg hover:text-amber-600 transition duration-150 cursor-pointer">FOOTWARE</h1>
+        <h1 class="text-amber-800 font-bold tracking-widest text-4xl hover:text-amber-700 transition duration-150 cursor-pointer">FOOTWARES</h1>
     </div>
     <div class="flex gap-5 text-gray-200">
-        <a href="" class="hover:text-amber-600 transition duration-150 cursor-pointer">Shop</a>
-        <a href="" class="hover:text-amber-600 transition duration-150 cursor-pointer">Collections</a>
-    </div>
-    <div class="flex gap-5 text-gray-200">
-        <p>Bag</p>
-        <p>Profile</p>
+        <p class="hover:text-amber-700 text-amber-800">Bag</p>
+        <p class="hover:text-amber-700 text-amber-800">Profile</p>
     </div>
 </nav>
